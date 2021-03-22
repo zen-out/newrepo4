@@ -1,0 +1,3 @@
+[submodule "newRepo5"]
+	path = newRepo5
+	url = https://github.com/lezzles11/newRepo5.git
